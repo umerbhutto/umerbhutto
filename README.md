@@ -9,6 +9,7 @@
 <a href="https://linkedin.com/in/ubhutto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ubhutto" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Top Languages:</h3>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umerbhutto&hide=html,jupyter%20notebook,javascript&layout=compact&langs_count=10)
 
 <h3 align="left">Languages and Tools:</h3>
