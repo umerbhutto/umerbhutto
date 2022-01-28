@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Umer</h1>
-<h3 align="center">A Data Science and Programming Enthusiast</h3>
+<h3 align="center">A Data Analyst and Programming Enthusiast</h3>
 
 <p align="left"> <a href="https://twitter.com/ubsmllp" target="blank"><img src="https://img.shields.io/twitter/follow/ubsmllp?logo=twitter&style=for-the-badge" alt="ubsmllp" /></a> </p>
 
